@@ -1,1 +1,1 @@
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealHath&count_private=true&theme=github" />
+[<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RealHath&count_private=true&theme=github" />](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RealHath&theme=github)
